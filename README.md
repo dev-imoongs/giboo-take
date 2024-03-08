@@ -1,4 +1,4 @@
-# Giboo&Take |<a href="http://www.giboontake.site"> Django 프로젝트 : 전국민 대상 기부 및 봉사 촉진과 독려 플랫폼</a>
+# Giboo&Take |<a href="http://www.giboontake.site">http://www.giboontake.site Django 프로젝트 : 전국민 대상 기부 및 봉사 촉진과 독려 플랫폼</a>
 
 ## 🖥️ 프로젝트 소개
 다양한 사람들이 기부와 봉사를 더 쉽게 참여하고 능동적으로 기여할 수 있는 기회를 제공하여 사회적 가치와 연대감을 증진시키는 데 초점을 맞춘 서비스
